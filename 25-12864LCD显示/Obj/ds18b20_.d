@@ -1,0 +1,12 @@
+.\obj\ds18b20_.o: Device\DS18B20\ds18b20_.c
+.\obj\ds18b20_.o: Device\DS18B20\ds18b20_.h
+.\obj\ds18b20_.o: .\CMSIS\stm32f10x.h
+.\obj\ds18b20_.o: .\CMSIS\core_cm3.h
+.\obj\ds18b20_.o: f:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\ds18b20_.o: .\CMSIS\system_stm32f10x.h
+.\obj\ds18b20_.o: .\Users\Inc\stm32f10x_conf.h
+.\obj\ds18b20_.o: .\StdPeriphDriver\inc\stm32f10x_gpio.h
+.\obj\ds18b20_.o: .\CMSIS\stm32f10x.h
+.\obj\ds18b20_.o: .\StdPeriphDriver\inc\stm32f10x_rcc.h
+.\obj\ds18b20_.o: .\StdPeriphDriver\inc\misc.h
+.\obj\ds18b20_.o: .\Device\Delay\delay.h

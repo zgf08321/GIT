@@ -1,0 +1,14 @@
+.\obj\usart.o: Device\usart\usart.c
+.\obj\usart.o: .\Device\sys\sys.h
+.\obj\usart.o: .\CMSIS\stm32f10x.h
+.\obj\usart.o: .\CMSIS\core_cm3.h
+.\obj\usart.o: f:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\usart.o: .\CMSIS\system_stm32f10x.h
+.\obj\usart.o: .\Users\Inc\stm32f10x_conf.h
+.\obj\usart.o: .\StdPeriphDriver\inc\stm32f10x_gpio.h
+.\obj\usart.o: .\CMSIS\stm32f10x.h
+.\obj\usart.o: .\StdPeriphDriver\inc\stm32f10x_rcc.h
+.\obj\usart.o: .\StdPeriphDriver\inc\stm32f10x_usart.h
+.\obj\usart.o: .\StdPeriphDriver\inc\misc.h
+.\obj\usart.o: Device\usart\usart.h
+.\obj\usart.o: f:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h

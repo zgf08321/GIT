@@ -1,0 +1,13 @@
+.\obj\key.o: Device\key\key.c
+.\obj\key.o: Device\key\key.h
+.\obj\key.o: .\CMSIS\stm32f10x.h
+.\obj\key.o: .\CMSIS\core_cm3.h
+.\obj\key.o: f:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\key.o: .\CMSIS\system_stm32f10x.h
+.\obj\key.o: .\Users\Inc\stm32f10x_conf.h
+.\obj\key.o: .\StdPeriphDriver\inc\stm32f10x_gpio.h
+.\obj\key.o: .\CMSIS\stm32f10x.h
+.\obj\key.o: .\StdPeriphDriver\inc\stm32f10x_rcc.h
+.\obj\key.o: .\StdPeriphDriver\inc\stm32f10x_usart.h
+.\obj\key.o: .\StdPeriphDriver\inc\misc.h
+.\obj\key.o: .\Device\Delay\delay.h

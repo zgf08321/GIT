@@ -1,0 +1,14 @@
+.\obj\st5767.o: Device\ST5767\ST5767.c
+.\obj\st5767.o: Device\ST5767\ST5767.h
+.\obj\st5767.o: .\CMSIS\stm32f10x.h
+.\obj\st5767.o: .\CMSIS\core_cm3.h
+.\obj\st5767.o: f:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\st5767.o: .\CMSIS\system_stm32f10x.h
+.\obj\st5767.o: .\Users\Inc\stm32f10x_conf.h
+.\obj\st5767.o: .\StdPeriphDriver\inc\stm32f10x_gpio.h
+.\obj\st5767.o: .\CMSIS\stm32f10x.h
+.\obj\st5767.o: .\StdPeriphDriver\inc\stm32f10x_rcc.h
+.\obj\st5767.o: .\StdPeriphDriver\inc\stm32f10x_usart.h
+.\obj\st5767.o: .\StdPeriphDriver\inc\misc.h
+.\obj\st5767.o: .\Device\Delay\delay.h
+.\obj\st5767.o: .\Device\LCD12864\LCD12864.h

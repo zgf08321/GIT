@@ -1,0 +1,16 @@
+.\obj\ds1302.o: Device\DS1302\DS1302.c
+.\obj\ds1302.o: Device\DS1302\DS1302.h
+.\obj\ds1302.o: .\CMSIS\stm32f10x.h
+.\obj\ds1302.o: .\CMSIS\core_cm3.h
+.\obj\ds1302.o: f:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\ds1302.o: .\CMSIS\system_stm32f10x.h
+.\obj\ds1302.o: .\Users\Inc\stm32f10x_conf.h
+.\obj\ds1302.o: .\StdPeriphDriver\inc\stm32f10x_gpio.h
+.\obj\ds1302.o: .\CMSIS\stm32f10x.h
+.\obj\ds1302.o: .\StdPeriphDriver\inc\stm32f10x_rcc.h
+.\obj\ds1302.o: .\StdPeriphDriver\inc\stm32f10x_usart.h
+.\obj\ds1302.o: .\StdPeriphDriver\inc\misc.h
+.\obj\ds1302.o: .\Device\Delay\delay.h
+.\obj\ds1302.o: .\Device\usart\usart.h
+.\obj\ds1302.o: f:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h
+.\obj\ds1302.o: .\Device\sys\sys.h

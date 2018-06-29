@@ -1,0 +1,15 @@
+.\obj\lcd12864.o: Device\LCD12864\LCD12864.c
+.\obj\lcd12864.o: Device\LCD12864\LCD12864.h
+.\obj\lcd12864.o: .\CMSIS\stm32f10x.h
+.\obj\lcd12864.o: .\CMSIS\core_cm3.h
+.\obj\lcd12864.o: f:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\lcd12864.o: .\CMSIS\system_stm32f10x.h
+.\obj\lcd12864.o: .\Users\Inc\stm32f10x_conf.h
+.\obj\lcd12864.o: .\StdPeriphDriver\inc\stm32f10x_gpio.h
+.\obj\lcd12864.o: .\CMSIS\stm32f10x.h
+.\obj\lcd12864.o: .\StdPeriphDriver\inc\stm32f10x_rcc.h
+.\obj\lcd12864.o: .\StdPeriphDriver\inc\stm32f10x_usart.h
+.\obj\lcd12864.o: .\StdPeriphDriver\inc\misc.h
+.\obj\lcd12864.o: .\Device\ST5767\ST5767.h
+.\obj\lcd12864.o: f:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+.\obj\lcd12864.o: f:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h
