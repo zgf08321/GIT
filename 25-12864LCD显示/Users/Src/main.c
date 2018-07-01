@@ -91,7 +91,7 @@ int main(void)
 	DS1302_GPIOINIT();
 	settime();
 	readtime();
-	
+	delay_ms(10);
 	
 	KEY_Init();
 	delay_ms(1000);
@@ -99,7 +99,7 @@ int main(void)
   LCD_Init();
 //	In = DS18B20_Init();
 	manyou=&m0_main[0]; //?????  
-  Locate(manyou); //?? 	
+  Locate(manyou); //½øÈë²Ëµ¥
 	while (1)
 	{
 		key = keyscan();
